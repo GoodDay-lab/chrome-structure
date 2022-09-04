@@ -98,6 +98,10 @@
 
 ![isolation](images/site-isolation.png)
 
+# Script using Python3.10
+
+    В корневом каталоге представлено видео работы скрипта.
+
 # Links
     
     Большая часть теории была взята из этих статей.

@@ -1,0 +1,2 @@
+#!/bin/bash
+ffmpeg -f x11grab  -y -rtbufsize 100M -s 1366x768 -framerate 30 -probesize 10M -draw_mouse 1 -i :0.0 -c:v libx264 -r 30 -preset ultrafast -tune zerolatency -crf 25 -pix_fmt yuv420p  screen.mp4
