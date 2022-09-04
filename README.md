@@ -87,3 +87,14 @@
 ## Пример *сайто-изоляции
 
 ![isolation](images/site-isolation.png)
+
+# Links
+    
+    Большая часть теории была взята из этих статей.
+    Прошу прочитать, это интересно!
+
+[Серия статей по устройству Chrome](https://habr.com/ru/post/526696/)
+
+[W3C WebDriver Docs](https://www.w3.org/TR/webdriver2/)
+
+[ChromeDriver](https://habr.com/ru/company/jugru/blog/347024/)
